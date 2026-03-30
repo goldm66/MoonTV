@@ -91,24 +91,100 @@
       "query": "豆瓣高分"
     },
     {
+      "name": "8分以上",
+      "type": "movie",
+      "query": "8分以上"
+    },
+    {
       "name": "热门电影",
       "type": "movie",
       "query": "热门"
+    },
+    {
+      "name": "热播剧集",
+      "type": "tv",
+      "query": "热播"
     },
     {
       "name": "最新上映",
       "type": "movie",
       "query": "最新"
     },
+
+    {
+      "name": "2026",
+      "type": "movie",
+      "query": "2026"
+    },
+    {
+      "name": "2025",
+      "type": "movie",
+      "query": "2025"
+    },
+    {
+      "name": "2024",
+      "type": "movie",
+      "query": "2024"
+    },
+    {
+      "name": "2023",
+      "type": "movie",
+      "query": "2023"
+    },
+    {
+      "name": "2022",
+      "type": "movie",
+      "query": "2022"
+    },
+    {
+      "name": "2021",
+      "type": "movie",
+      "query": "2021"
+    },
+    {
+      "name": "2020",
+      "type": "movie",
+      "query": "2020"
+    },
+    {
+      "name": "2019",
+      "type": "movie",
+      "query": "2019"
+    },
+    {
+      "name": "2018",
+      "type": "movie",
+      "query": "2018"
+    },
+    {
+      "name": "2017",
+      "type": "movie",
+      "query": "2017"
+    },
+    {
+      "name": "2016",
+      "type": "movie",
+      "query": "2016"
+    },
+    {
+      "name": "2015",
+      "type": "movie",
+      "query": "2015"
+    },
+    {
+      "name": "2010-2014",
+      "type": "movie",
+      "query": "2010..2014"
+    },
+    {
+      "name": "2005-2009",
+      "type": "movie",
+      "query": "2005..2009"
+    },
     {
       "name": "经典老片",
       "type": "movie",
       "query": "经典"
-    },
-    {
-      "name": "冷门佳片",
-      "type": "movie",
-      "query": "冷门佳片"
     },
 
     {
@@ -130,6 +206,11 @@
       "name": "日本电影",
       "type": "movie",
       "query": "日本"
+    },
+    {
+      "name": "其他地区",
+      "type": "movie",
+      "query": "泰国 印度 法国 德国 意大利 西班牙"
     },
 
     {
